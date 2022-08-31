@@ -1,0 +1,133 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+   
+    
+}
+
+body{
+    background-image: url(../image/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+header h2{
+    padding:15px;
+    background-color: blue;
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 45%;
+    background-color: black;
+    color: white;
+    border-radius:20px;
+    font-family: serif;
+    line-height:47.41px;
+    text-align: center;
+
+}
+
+.pirvelinawili{
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 50%;
+
+}
+.pirvelinawili input{
+    width: 100%;
+    padding: 15px;
+    margin-top: 2%;
+    border: none;
+    border-radius:10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+    
+    
+}
+.textarea{
+    width: 740px;
+    height: 170px;
+    padding: none;
+}
+
+.pirvelinawili label{
+    margin: top 3%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+.metodi{
+    display: block;
+    margin-left: 45%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.meorenawili{
+    margin-left: 45%;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+ .meorenawili label{
+    margin-top: 2%;
+    width: 40%;
+    font-size: 20px;
+    line-height: 26px
+    
+   
+}
+.submit{
+    margin-left: 45%;
+    width:50%;
+    padding: 22px;
+    background-color:  #01AF8C;
+    border: none;
+    border-bottom: 3px solid #000000;
+    border-radius: 10px;
+    margin-top: 1%;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+
+
+                     /* meore gverdi */
+
+
+ .notification{
+    padding: 40px;
+    width: 35%;
+    margin-left: 45%;
+    margin-top: 10%;
+    background-color: black;
+    text-align: center;
+    border-radius: 20px;
+ }            
+ h3{
+   font-size: 26px;
+   color: white;
+ } 
+ 
+ .notification p{
+    display: block;
+    margin-top: 5%;
+    color: white;
+ }
+
+ .fasdakleba{
+    margin-top: 10%;
+    margin-left: 45%;
+    width: 35%;
+    background-color: orange;
+    border-radius: 10px;
+ }
+.sale{
+    display: block;
+    padding: 35px;
+}
